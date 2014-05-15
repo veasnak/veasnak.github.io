@@ -1,9 +1,9 @@
 .main .topbar{
-background: #888888;
-height: 95px;
+  height: 95px;
 }
-.main{
+header.main{
   border-top: 5px solid #218997;
+  background:#888888;
 }
 
 .main ul.left a {
