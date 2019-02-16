@@ -1,12 +1,21 @@
 [
   {
-    "name": "Jacksonville Local",
+    "name": "On Demand",
+    "samples": [
+      {
+		"name": "Night School (2018)",
+		"uri": "http://ns502618.ip-192-99-8.net/library/movieland/Night.School.2018.720p.WEB-DL.DD5.1.X264-CMRG.mkv"
+      }
+    ]
+  },
+  {
+    "name": "My Jacksonville Local",
     "samples": [
       {
 		"name": "Science Channel",
 		"uri": "http://sock.one:83/live/AmsDnSR9/aNyNS7F3/308923.m3u8"
       },
-	        {
+	  {
 		"name": "Hunt for Red October",
 		"uri": "http://dl20.mihanpix.net/94/4/The.Hunt.For.Red.October.1990.BluRay.720p.Tehmovies.com.mkv"
       },
@@ -32,6 +41,43 @@
         "extension": "mpd"
       }
     ]
+  },
+  {
+    "name": "Movie Channels",
+    "samples": [
+      {
+		"name": "HBO",
+		"uri": "http://sock.one:83/live/AmsDnSR9/aNyNS7F3/142672.m3u8"
+      },
+	        {
+		"name": "HBO 2",
+		"uri": "http://sock.one:83/live/AmsDnSR9/aNyNS7F3/308879.m3u8"
+      },
+      {
+		"name": "HBO Comedy",
+		"uri": "http://sock.one:83/live/AmsDnSR9/aNyNS7F3/308878.m3u8"
+      },
+      {
+		"name": "Showtime",
+		"uri": "http://sock.one:83/live/AmsDnSR9/aNyNS7F3/308797.m3u8"
+      },
+      {
+		"name": "Showtime 2",
+		"uri": "http://sock.one:83/live/AmsDnSR9/aNyNS7F3/142706.m3u8"
+      },
+      {
+		"name": "Showtime Extreme",
+		"uri": "http://sock.one:83/live/AmsDnSR9/aNyNS7F3/308799.m3u8"
+      },
+      {
+        "name": "Cinemax",
+        "uri": "http://sock.one:83/live/AmsDnSR9/aNyNS7F3/305158.m3u8"
+      },
+      {
+        "name": "Cinemax Action Max",
+        "uri": "http://sock.one:83/live/AmsDnSR9/aNyNS7F3/308943.m3u8"
+      }
+	  ]
   },
   {
     "name": "Widevine DASH Policy Tests (GTS)",
