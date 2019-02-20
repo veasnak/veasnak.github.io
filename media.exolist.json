@@ -1,5 +1,14 @@
 [
   {
+    "name": "On Demand (Github)",
+    "samples": [
+      {
+		"name": "13 Hours Secret Soilders of Benghazi",
+		"uri": "http://sv4avadl.uploadt.com/Movie/2016/13.Hours.The.Secret.Soldiers.of.Benghazi.2016.720p.BrRip.x265_AVADL.CO.mkv"
+      }
+    ]
+  },
+  {
     "name": "My Jacksonville Local (Github)",
     "samples": [
       {
@@ -13,10 +22,6 @@
 	{
 		"name": "Science Channel",
 		"uri": "http://sock.one:83/live/AmsDnSR9/aNyNS7F3/308923.m3u8"
-      },
-	        {
-		"name": "Hunt for Red October",
-		"uri": "http://dl20.mihanpix.net/94/4/The.Hunt.For.Red.October.1990.BluRay.720p.Tehmovies.com.mkv"
       },
       {
 		"name": "Smithsonian Channel",
