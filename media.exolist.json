@@ -1,5 +1,18 @@
 [
   {
+    "name": "Movie Channel (Github)",
+    "samples": [
+      {
+		"name": "HBO",
+		"uri": "http://sock.one:83/live/AmsDnSR9/aNyNS7F3/305131.m3u8"
+      },
+      {
+		"name": "Showtime",
+		"uri": "http://sock.one:83/live/AmsDnSR9/aNyNS7F3/305120.m3u8"
+      }
+    ]
+  },
+  {
     "name": "On Demand (Github)",
     "samples": [
       {
