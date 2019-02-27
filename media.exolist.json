@@ -457,16 +457,16 @@
     ]
   },
   {
-    "name": "Playlists",
+    "name": "Piyo Playlists",
     "samples": [
       {
-        "name": "Cats -> Dogs",
+        "name": "Piyo Hybrid",
         "playlist": [
           {
-            "uri": "https://html5demos.com/assets/dizzy.mp4"
+            "uri": "http://readyshare.routerlogin.net/shares/USB_Storage/Piyo/Align The Fundamentals.mp4"
           },
           {
-            "uri": "https://storage.googleapis.com/exoplayer-test-media-1/mkv/android-screens-lavf-56.36.100-aac-avc-main-1280x720.mkv"
+            "uri": "http://readyshare.routerlogin.net/shares/USB_Storage/Piyo/Buns.mp4"
           }
         ]
       },
