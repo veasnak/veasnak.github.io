@@ -1,7 +1,15 @@
 [
   {
-    "name": "Movie Channel (Github)",
+    "name": "Movie Channels (Github)",
     "samples": [
+      {
+		"name": "Starz",
+		"uri": "http://sock.one:83/live/AmsDnSR9/aNyNS7F3/308792.m3u8"
+      },
+      {
+		"name": "Cinemax Action Max",
+		"uri": "http://sock.one:83/live/AmsDnSR9/aNyNS7F3/308943.m3u8"
+      },
       {
 		"name": "Cinemax",
 		"uri": "http://sock.one:83/live/AmsDnSR9/aNyNS7F3/308942.m3u8"
@@ -9,6 +17,10 @@
       {
 		"name": "HBO",
 		"uri": "http://sock.one:83/live/AmsDnSR9/aNyNS7F3/305131.m3u8"
+      },
+      {
+		"name": "HBO 2",
+		"uri": "http://sock.one:83/live/AmsDnSR9/aNyNS7F3/308879.m3u8"
       },
       {
 		"name": "Showtime",
