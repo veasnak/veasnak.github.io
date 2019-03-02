@@ -3,6 +3,10 @@
     "name": "Movie Channel (Github)",
     "samples": [
       {
+		"name": "Cinemax",
+		"uri": "http://sock.one:83/live/AmsDnSR9/aNyNS7F3/308942.m3u8"
+      },
+      {
 		"name": "HBO",
 		"uri": "http://sock.one:83/live/AmsDnSR9/aNyNS7F3/305131.m3u8"
       },
@@ -28,6 +32,10 @@
   {
     "name": "My Jacksonville Local (Github)",
     "samples": [
+      {
+		"name": "Paramount",
+		"uri": "http://sock.one:83/live/AmsDnSR9/aNyNS7F3/308796.m3u8"
+      },
       {
 		"name": "The Weather Channel",
 		"uri": "http://sock.one:83/live/AmsDnSR9/aNyNS7F3/308779.m3u8"
