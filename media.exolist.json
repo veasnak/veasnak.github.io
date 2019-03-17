@@ -32,6 +32,10 @@
     "name": "On Demand (Github)",
     "samples": [
       {
+		"name": "Geostorm",
+		"uri": "http://dl2.upload08.com/files/Film/2017/Geostorm%202017/Geostorm.2017.720p.10bit.BRrip.6CH.x265.HEVC.PSA.Farda.DL.mkv"
+      },
+      {
 		"name": "The Fugitive",
 		"uri": "http://mc1.dl3enter.in/files/d1/film/1993/The%20Fugitive/The.Fugitive.1993.720p.BluRay.DL.mkv"
       },
