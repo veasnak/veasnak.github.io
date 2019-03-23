@@ -32,6 +32,10 @@
     "name": "On Demand (Github)",
     "samples": [
       {
+		"name": "Lego Batman",
+		"uri": "http://cdn.par30dl.com/2017/Animations/02-February/The.LEGO.Batman.Movie.2017/The.Lego.Batman.Movie.2017.720p.WEB-DL_www.par30dl.com.mkv"
+      },
+      {
 		"name": "Ralph Breaks the Internet",
 		"uri": "http://5.79.80.118/stuff/Ralph%20Breaks%20The%20Internet%20(2018)%20%5bWEBRip%5d%20%5b1080p%5d%20%5bYTS.AM%5d/Ralph.Breaks.The.Internet.2018.1080p.WEBRip.x264-%5bYTS.AM%5d.mp4"
       },
