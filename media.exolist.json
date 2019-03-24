@@ -61,6 +61,10 @@
     "name": "My Jacksonville Local (Github)",
     "samples": [
       {
+		"name": "Lifetime",
+		"uri": "http://helixtv.ninja:83/live/AmsDnSR9/aNyNS7F3/308861.m3u8"
+      },
+      {
 		"name": "IFC",
 		"uri": "http://helixtv.ninja:83/live/AmsDnSR9/aNyNS7F3/308865.m3u8"
       },
