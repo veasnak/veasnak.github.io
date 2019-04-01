@@ -32,6 +32,10 @@
     "name": "On Demand (Github)",
     "samples": [
       {
+		"name": "Volcano 1997",
+		"uri": "https://readyshare.routerlogin.net/shares/USB_Storage/Volcano.1997.DVDRip.x264-DJ.mkv"
+      },
+      {
 		"name": "Surviving R. Kelly - Episode 1",
 		"uri": "https://stripesandeverythingnice.com/movies/Surviving.R.Kelly.S01E01.The.Pied.Piper.of.RandB.1080p.AMZN.WEB-DL.DDP2.0.H.264-NTb.mkv"
       },
@@ -54,10 +58,6 @@
       {
 		"name": "Surviving R. Kelly - Episode 6",
 		"uri": "https://stripesandeverythingnice.com/movies/Surviving.R.Kelly.S01E06.Black.Girls.Matter.720p.AMZN.WEB-DL.DDP2.0.H.264-NTb.mkv"
-      },
-      {
-		"name": "Moanna",
-		"uri": "http://pz10093.parspack.net/Animation/Moana%202016/Moana.2016.720p.BluRay.x265.ShAaNiG.mkv"
       },
       {
 		"name": "Ralph Breaks the Internet",
