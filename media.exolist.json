@@ -2,6 +2,7 @@
   {
     "name": "Movie Channels (Github)",
     "samples": [
+      {"name": "JSON Example","uri": "http://jammy.today:83/live/AmsDnSR9/aNyNS7F3/332687.m3u8"},
       {
 		"name": "24/7 Will Smith Movies",
 		"uri": "http://jammy.today:83/live/AmsDnSR9/aNyNS7F3/332687.m3u8"
