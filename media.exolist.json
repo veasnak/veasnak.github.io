@@ -39,6 +39,10 @@
     "name": "On Demand (Github)",
     "samples": [
       {
+		"name": "Top Gun",
+		"uri": "http://176-20-143-152-dynamic.dk.customer.tdc.net/Movies/Top%20Gun%20(1986)/Top%20Gun%20(1986)%201080p%20BrRip%20x264%201.29GB%20YIFY.mp4"
+      },
+      {
 		"name": "Second Act",
 		"uri": "http://readyshare.routerlogin.net/shares/USB_Storage/Second.Act.2018.mkv"
       },
