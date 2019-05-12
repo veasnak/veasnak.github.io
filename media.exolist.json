@@ -39,12 +39,8 @@
     "name": "On Demand (Github)",
     "samples": [
       {
-		"name": "Shrek 3",
-		"uri": "http://144.217.77.219/vod/peliculas/infantiles/shrek3.mp4"
-      },
-      {
 		"name": "Shrek 2",
-		"uri": "http://144.217.77.219/vod/peliculas/infantiles/shrek2.mp4"
+		"uri": "http://dl2.updlf.com/files/Film/Collection/Shrek/Shrek%202%202004/Shrek.2.2004.720p.BrRip.MkvCage.Farda.DL.mkv"
       },
       {
 		"name": "Second Act",
