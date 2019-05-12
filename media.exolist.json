@@ -39,8 +39,12 @@
     "name": "On Demand (Github)",
     "samples": [
       {
-		"name": "The Final Countdown",
-		"uri": "http://45.120.114.222/HDD1/English%20Movies/The%20Final%20Countdown%201980.mp4"
+		"name": "Shrek 3",
+		"uri": "http://144.217.77.219/vod/peliculas/infantiles/shrek3.mp4"
+      },
+      {
+		"name": "Shrek 2",
+		"uri": "http://144.217.77.219/vod/peliculas/infantiles/shrek2.mp4"
       },
       {
 		"name": "Second Act",
